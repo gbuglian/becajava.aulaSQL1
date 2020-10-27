@@ -1,0 +1,1 @@
+DELETE FROM Aluno WHERE Nome = 'José Silva'
